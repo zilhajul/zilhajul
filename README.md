@@ -6,7 +6,7 @@
 </p>
 
 ### 🚀 Full-Stack Mobile App Developer
-A passionate developer from Bangladesh, dedicated to building high-quality mobile applications. I specialize in **Flutter** and **Java**, with a strong focus on database management and real-time cloud integration.
+A passionate developer from Bangladesh, dedicated to building high-quality mobile applications. I specialize in **Flutter** and **Java**.
 
 ---
 
@@ -24,7 +24,7 @@ A passionate developer from Bangladesh, dedicated to building high-quality mobil
 
 ### 📂 Featured Projects
 
-- **📚 Library Management System** - A complete system to manage books, members, and transactions efficiently.
+- **[📚 Library Management System ](https://github.com/zilhajul/Library-Management-System.git)** - A complete system to manage books, members, and transactions efficiently.
 - **📱 Mobile Applications** - Developed various cross-platform apps using Flutter and Java.
 - **🔥 Firebase Integration** - Experienced in Authentication, Firestore, and Cloud Messaging.
 
@@ -32,6 +32,7 @@ A passionate developer from Bangladesh, dedicated to building high-quality mobil
 
 
 ### 📫 Let's Connect!
+- 📱 **Phone** 01310818216
 - ✉️ **Email:** [mdzilhajul@gmail.com]
 - 🔗 **LinkedIn:** [zilhajul-islam](https://www.linkedin.com/in/apnar-profile/)
 

@@ -30,16 +30,9 @@ A passionate developer from Bangladesh, dedicated to building high-quality mobil
 
 ---
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zilhajul&show_icons=true&theme=tokyonight" alt="Zilhajul's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zilhajul&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 📫 Let's Connect!
-- ✉️ **Email:** [apnar-email@gmail.com]
+- ✉️ **Email:** [mdzilhajul@gmail.com]
 - 🔗 **LinkedIn:** [zilhajul-islam](https://www.linkedin.com/in/apnar-profile/)
 
 <p align="center">

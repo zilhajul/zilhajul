@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Zilhajul Islam 🇧🇩
 
-<!--
-**zilhajul/zilhajul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="mailto:apnar-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/apnar-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-Here are some ideas to get you started:
+### 🚀 Full-Stack Mobile App Developer
+A passionate developer from Bangladesh, dedicated to building high-quality mobile applications. I specialize in **Flutter** and **Java**, with a strong focus on database management and real-time cloud integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Java, Dart, SQL |
+| **Frameworks** | Flutter |
+| **Databases** | MySQL, SQLite, Firebase Realtime Database |
+| **Backend** | Firebase, PHP |
+| **Tools** | Git, GitHub, Android Studio, VS Code |
+
+---
+
+### 📂 Featured Projects
+
+- **📚 Library Management System** - A complete system to manage books, members, and transactions efficiently.
+- **📱 Mobile Applications** - Developed various cross-platform apps using Flutter and Java.
+- **🔥 Firebase Integration** - Experienced in Authentication, Firestore, and Cloud Messaging.
+
+---
+
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zilhajul&show_icons=true&theme=tokyonight" alt="Zilhajul's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zilhajul&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+- ✉️ **Email:** [apnar-email@gmail.com]
+- 🔗 **LinkedIn:** [zilhajul-islam](https://www.linkedin.com/in/apnar-profile/)
+
+<p align="center">
+  <i>"Building the future, one line of code at a time."</i>
+</p>
